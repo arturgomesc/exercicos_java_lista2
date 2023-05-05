@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df963b60-612d-48a9-8d07-131fd1a95be3" name="Changes" comment="iniciando a questao 3 (estudar arrays)">
+    <list default="true" id="df963b60-612d-48a9-8d07-131fd1a95be3" name="Changes" comment="conclusão da questão 3">
+      <change afterPath="$PROJECT_DIR$/src/salarioReajuste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quatroValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quatroValores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +59,19 @@
       <option name="project" value="LOCAL" />
       <updated>1683293074619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conclusão da questão 3">
+      <created>1683314852392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683314852392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando a questao 3 (estudar arrays)" />
-    <option name="LAST_COMMIT_MESSAGE" value="iniciando a questao 3 (estudar arrays)" />
+    <MESSAGE value="conclusão da questão 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="conclusão da questão 3" />
   </component>
 </project>
